@@ -538,6 +538,16 @@ body#single_blog_page .right_sidebar_area{
 
 @media only screen and (max-width: 767px) {
 
+.square{
+    top:100px;
+    left:-130px;
+}
+
+.square2{
+    right:-50px;
+}
+
+
 .fullwidth_home_banner{
   height: 300px!important;
 }
@@ -557,6 +567,11 @@ body#single_blog_page .right_sidebar_area{
 .navbar-brand img{
   width: 80px;
 }
+
+.about .title{
+  font-size: 25px;
+}
+
 
 body#booking_page .facilities_name .section_title {
   margin-bottom: 10px;
