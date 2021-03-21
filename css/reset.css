@@ -18,6 +18,8 @@ body{
     color: #666666;
     overflow-x: hidden;
     /* background:var(--main-color); */
+        overflow-x: hidden!important;
+
 }
 p{
     color: #666666;

@@ -64,10 +64,6 @@ ___________________________________________________________________________
   --body-color:#fff4e3;
 }
 
-body{
-  /* background: var(--body-color); */
-}
-
 a{
 	color: #000;
 }
@@ -2232,6 +2228,7 @@ body#single_blog_page .recent_post_details > p {
 .testimonial{
 	padding: 50px 0;
   position: relative;
+  overflow-x: hidden!important;
 }
 
 .testimonial:after{
