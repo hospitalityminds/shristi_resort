@@ -64,6 +64,11 @@ ___________________________________________________________________________
   --body-color:#fff4e3;
 }
 
+html{
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
 a{
 	color: #000;
 }
